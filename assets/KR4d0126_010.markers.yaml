@@ -471,6 +471,7 @@ markers:
   - {type: indent, offset: 1692, content: 　　　, id: KR4d0126_krp_010-bkkind10}
   - {type: substitution, offset: 1694, original: 賛, replacement: 贊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17775}}
   - {type: punctuation, offset: 1695, content: (, id: KR4d0126_krp_010-bkkpn1}
+  - {type: voice, offset: 1695, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 1696, content: /, id: KR4d0126_krp_010-bkkpn2}
   - {type: punctuation, offset: 1697, content: ), id: KR4d0126_krp_010-bkkpn3}
   - {type: 'kr:newline', offset: 1697, content: '
@@ -802,6 +803,7 @@ markers:
   - {type: line-break, offset: 2789, content: '', id: KR4d0126_WYG_010-10a05}
   - {type: indent, offset: 2789, content: 　　, id: KR4d0126_krp_010-bkkind17}
   - {type: punctuation, offset: 2792, content: (, id: KR4d0126_krp_010-bkkpn4}
+  - {type: voice, offset: 2792, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 2794, content: /, id: KR4d0126_krp_010-bkkpn5}
   - {type: punctuation, offset: 2794, content: ), id: KR4d0126_krp_010-bkkpn6}
   - {type: 'kr:newline', offset: 2794, content: '
@@ -1360,6 +1362,7 @@ markers:
   - {type: line-break, offset: 4805, content: '', id: KR4d0126_WYG_010-16b08}
   - {type: indent, offset: 4805, content: 　　　, id: KR4d0126_krp_010-bkkind24}
   - {type: punctuation, offset: 4808, content: (, id: KR4d0126_krp_010-bkkpn7}
+  - {type: voice, offset: 4808, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 4810, content: /, id: KR4d0126_krp_010-bkkpn8}
   - {type: punctuation, offset: 4810, content: ), id: KR4d0126_krp_010-bkkpn9}
   - {type: 'kr:newline', offset: 4810, content: '
@@ -2009,4 +2012,4 @@ markers:
 
       ', id: KR4d0126_krp_010-bkkkrnewl428}
   back: []
-hash: sha256:0944271ac6edf75b8cb89d5e5b07633f792df037a28a99269a6bb1a53db037ba
+hash: sha256:fb30c402c12568a3c2869cc648ac6e5a7f9be93cd7acaf95035f1330394284c5
